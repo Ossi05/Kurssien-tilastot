@@ -1,2 +1,3 @@
 # Kurssien-tilastot
-Mooc 2020 Python kurssi osa 7 Datan käsittely
+Mooc 2020 Python kurssi osa 7 Datan käsittely tehtävä kurssien tilastot
+ 
